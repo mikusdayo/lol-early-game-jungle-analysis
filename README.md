@@ -1,5 +1,5 @@
 # lol-early-game-jungle-analysis
- An analysis of League of Legends early-game jungle performance on overall team performance. This analysis was conducted as a final project for UCSD's Spring 2024 offering of DSC80.
+ An analysis of League of Legends early-game jungle performance on overall team performance. This analysis was conducted as a final project for UCSD's Summer 2024 offering of DSC80.
 
 ## Introduction
 ## Data Cleaning and Exploratory Data Analysis
